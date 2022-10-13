@@ -1,1 +1,2 @@
-# Automating text using Python
+# Python exercises
+
